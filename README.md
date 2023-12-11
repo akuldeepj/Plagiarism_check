@@ -1,4 +1,4 @@
-#Text Pagiarism Checker
+__Text Pagiarism Checker__
 
 A Simple Text Pagiarism checker built using bert
 
